@@ -2,7 +2,7 @@
 
 Android Application (SQLite Database, Image Addition by Bitmap, User Permissions)
 
-<img src="hhttps://user-images.githubusercontent.com/27291967/73092341-7d628000-3eed-11ea-88f4-78b76a8e70ff.png" width=200 height=330>
+<img src="https://user-images.githubusercontent.com/27291967/73092341-7d628000-3eed-11ea-88f4-78b76a8e70ff.png" width=200 height=330>
 
 <img src="https://user-images.githubusercontent.com/27291967/73092359-85222480-3eed-11ea-9b1a-24d6066a2cd6.png" width=200 height=330>
 
